@@ -12,4 +12,4 @@ https://github.com/raquelaweb/TareaRepositorios
 
 
 Captura de pantalla de Insights-Network:
-![Captura de NetworkGrapgh](NetworkGrapgh.png)
+![Captura de NetworkGrapgh](imagenes/NetworkGrapgh.png)
